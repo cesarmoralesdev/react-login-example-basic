@@ -1,10 +1,10 @@
+import { Login7 } from "./components/login7/Login7"
+
 function App() {
 
   return (
     <>
-      <div>
-        Login basic
-      </div>
+      <Login7/>
     </>
   )
 }
